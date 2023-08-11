@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings>
+    <module2copyright>
+      <element module="lily-proto-and-server" copyright="lily's license (proto &amp; server)" />
+      <element module="lily-client" copyright="lily's license (client)" />
+    </module2copyright>
+  </settings>
+</component>

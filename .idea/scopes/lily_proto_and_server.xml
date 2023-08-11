@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="lily-proto-and-server" pattern="file[lily-proto]:*/||file[lily-server]:*/" />
+</component>
